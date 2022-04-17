@@ -1,0 +1,17 @@
+body {
+    background-image: url("water.jpg");
+    height: 20cm;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: cursive;
+}
+
+.box {
+    background-color: #E0CBAE;
+    padding: 1.5cm;
+    margin-top: 2cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    opacity: 0.6;
+    p: #DBD4D0;
+}
